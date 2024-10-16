@@ -1,0 +1,2 @@
+This is a file created in git hub directly
+This will be pulled from git repo to local folder
